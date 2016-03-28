@@ -3,11 +3,11 @@ Just my GitHub sandbox...
 
 ```
 ./
-├── (/bin)
-├── (/build)
-├── /doc
-│   ├── doc
-├── /src
-│   ├── helloworld.c
-├── Makefile
++-- (/bin)
++-- (/build)
++-- /doc
+|   +-- doc
++-- /src
+|   +-- helloworld.c
++-- Makefile
 ```
